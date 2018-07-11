@@ -1,2 +1,4 @@
 # TestPlatform
-Hosts the scientific material useful to build the EPOS Test Platform. 
+* EMSC Collect
+* EPOS-Seismology Evaluate
+* EU Scientists Compare
